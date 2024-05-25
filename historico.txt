@@ -1,0 +1,7 @@
+Histórico de Conversões:
+Origem: usd
+Destino: brl
+Valor Original: 555.0
+Valor Convertido: 2847.705
+Data e Hora: 23/05/2024 19:23:15
+
